@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hello, World')  # Press Ctrl+F8 to toggle the breakpoint.
+    print("Hello GitHub")
 
 
 # Press the green button in the gutter to run the script.
